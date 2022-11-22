@@ -1,0 +1,18 @@
+.buttons{
+    margin: 0;
+    padding: 10;
+    width: vw;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+}
